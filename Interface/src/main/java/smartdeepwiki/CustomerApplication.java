@@ -8,6 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * 放在最外层（interface 层），负责启动 Spring 容器，
  * 自动扫描下层模块的 Bean（Application、Infrastructure）。
+ *askhfaiskfaksfalksf
+ *
+ *
+ *
  *
  */
 @SpringBootApplication(scanBasePackages = "smartdeepwiki")
